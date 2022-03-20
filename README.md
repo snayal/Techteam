@@ -1,4 +1,4 @@
-# eliaswebsite
+# Tech Team Project
 
 ## Project setup
 ```
